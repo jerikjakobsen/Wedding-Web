@@ -14,6 +14,8 @@ A collection of websites created to manage a wedding rsvps, news, and contact wi
 ## Main Wedding Website
 (jenawedding Folder)
 
+https://mattandjenaswedding.info/
+
 This website was built as a single page app bootstrapped by create-react-app with react. Guest's use this website to rsvp for the wedding, input their email for additional news about the wedding and 
 recieve general information regarding the wedding. In order to rsvp guest must search their name, then their name and the names of the members in their party will appear, which will have an rsvp and no rsvp option.
 

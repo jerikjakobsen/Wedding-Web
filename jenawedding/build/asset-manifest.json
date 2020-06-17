@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e6657dd.chunk.css",
+    "main.js": "/static/js/main.456a0034.chunk.js",
+    "main.js.map": "/static/js/main.456a0034.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc838395.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc838395.js.map",
+    "static/js/2.02ca7c46.chunk.js": "/static/js/2.02ca7c46.chunk.js",
+    "static/js/2.02ca7c46.chunk.js.map": "/static/js/2.02ca7c46.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a075ee082158348adfe0702d4c50ef77.js": "/precache-manifest.a075ee082158348adfe0702d4c50ef77.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7e6657dd.chunk.css.map": "/static/css/main.7e6657dd.chunk.css.map",
+    "static/js/2.02ca7c46.chunk.js.LICENSE": "/static/js/2.02ca7c46.chunk.js.LICENSE",
+    "static/media/466F17BB-45C1-460B-9415-F1427BD8C142_1_105_c.jpeg": "/static/media/466F17BB-45C1-460B-9415-F1427BD8C142_1_105_c.a271a13d.jpeg",
+    "static/media/AlexBrush-Regular.ttf": "/static/media/AlexBrush-Regular.bab6c674.ttf",
+    "static/media/BarlowCondensed-Light.ttf": "/static/media/BarlowCondensed-Light.c7ceaaee.ttf",
+    "static/media/PlayfairDisplay-VariableFont:wght.ttf": "/static/media/PlayfairDisplay-VariableFont:wght.20e1565d.ttf",
+    "static/media/Theguest.png": "/static/media/Theguest.ea957cf6.png",
+    "static/media/download-on-the-app-store-apple.svg": "/static/media/download-on-the-app-store-apple.aa51ea56.svg",
+    "static/media/google-play-badge.svg": "/static/media/google-play-badge.a1038aa4.svg",
+    "static/media/john.JPG": "/static/media/john.0cb02c7c.JPG",
+    "static/media/snapchat.svg": "/static/media/snapchat.0e598734.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc838395.js",
+    "static/js/2.02ca7c46.chunk.js",
+    "static/css/main.7e6657dd.chunk.css",
+    "static/js/main.456a0034.chunk.js"
+  ]
+}

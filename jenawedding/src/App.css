@@ -1,0 +1,76 @@
+.navbar {
+  top: 0;
+  text-align: center;
+  position: sticky;
+  width: inherit;
+  background-color: #daabde;
+  text-align: center;
+  box-shadow: 0 0 15px 10px rgba(251, 182, 255, 0.418);
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+
+.mainPic {
+  display: block;
+  width: 100%;
+  height: 400px;
+  padding-bottom: 40px;
+  width: 60%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 20%;
+  align-self: center;
+}
+
+.centerText {
+  text-align: center
+}
+
+.padding {
+  padding-bottom: 50px
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  margin-bottom: 30px;
+  list-style-type: none;
+  font-family: Playfair Display;
+}
+
+li {
+  margin-right: 13px;
+  font-size: 18px;
+  display: inline;
+
+}
+
+h5 {
+  margin: 0
+}
+
+.bigText {
+  font-size: 48px
+}
+
+.playfair {
+  font-family: Playfair Display
+}
+
+.mediumText {
+  font-size: 32px
+}
+
+.centerElement {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black
+}
+
+a:hover {
+  color: rgb(65, 61, 61)
+}
